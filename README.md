@@ -1,6 +1,6 @@
 [![dependencies Status](https://david-dm.org/lhoc/project-starter/status.svg)](https://david-dm.org/lhoc/project-starter)
 
-This is the source code of my personal project starter.
+This is the source code of my personal project starter for gatsby projects.
 
 🛠 Built with:
 
@@ -9,7 +9,7 @@ This is the source code of my personal project starter.
 - [styled-components](https://www.styled-components.com/)
 
 ## Style guide
-Follows the eslint Airbnb Styleguide.
+Follows the eslint airbnb Styleguide (added some rules to comply with prettier).
 
 ## Development
 
