@@ -6,6 +6,8 @@ This is the source code of my personal project starter.
 - [React](https://reactjs.org/)
 - [styled-components](https://www.styled-components.com/)
 
+## Style guide
+Follows the eslint Airbnb Styleguide.
 
 ## Development
 
