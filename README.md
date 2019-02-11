@@ -1,4 +1,4 @@
-<a href="https://david-dm.org/alanshaw/david-www"><img src="https://david-dm.org/lhoc/project-starter.svg" alt="Dependency Status"></a>
+[![dependencies Status](https://david-dm.org/lhoc/project-starter/status.svg)](https://david-dm.org/lhoc/project-starter)
 
 This is the source code of my personal project starter.
 
