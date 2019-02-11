@@ -1,3 +1,5 @@
+<a href="https://david-dm.org/alanshaw/david-www"><img src="https://david-dm.org/lhoc/project-starter.svg" alt="Dependency Status"></a>
+
 This is the source code of my personal project starter.
 
 🛠 Built with:
