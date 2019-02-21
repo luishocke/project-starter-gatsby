@@ -25,3 +25,8 @@ Make sure to have [ESLint](https://eslint.org/) and [Prettier](https://prettier.
 
 1. Use `gatsby build` to create a production build
 2. Use `gatsby serve` to serve it
+
+## Next
+1. Include Firebase Authentication
+2. Make Header & Footer responsive and set up example Links
+3. Create constants (breakpoints, routes, links, colors).
