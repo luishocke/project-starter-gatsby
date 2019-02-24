@@ -27,6 +27,9 @@ Make sure to have [ESLint](https://eslint.org/) and [Prettier](https://prettier.
 2. Use `gatsby serve` to serve it
 
 ## Next
-1. Include Firebase Authentication
-2. Make Header & Footer responsive and set up example Links
-3. Create constants (breakpoints, routes, links, colors).
+1. Make Header & Footer responsive and set up example Links
+2. Create constants (breakpoints, routes, links, colors).
+3. Sidenav for App
+4. Sign Out
+5. Add more providers
+6. custom login ( then reduce to firebase/auth) ?
